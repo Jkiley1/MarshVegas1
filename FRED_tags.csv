@@ -1,0 +1,1001 @@
+group_id,name,notes,created,popularity,series_count
+seas,nsa,Not Seasonally Adjusted,2012-02-27 10:18:19-06,100,730864
+geo,usa,United States of America,2012-02-27 10:18:19-06,100,660668
+cc,public domain: citation requested,,2018-12-17 23:33:13-06,99,612592
+freq,annual,,2012-02-27 10:18:19-06,92,491898
+geot,county,County or County Equivalent,2012-02-27 10:18:19-06,87,330690
+geot,nation,,2012-02-27 10:18:19-06,96,268286
+src,census,Census,2012-02-27 10:18:19-06,86,237516
+freq,monthly,,2012-02-27 10:18:19-06,92,214236
+cc,copyrighted: citation required,,2018-12-17 23:33:13-06,85,207756
+src,bls,Bureau of Labor Statistics,2012-02-27 10:18:19-06,87,175070
+gen,persons,,2012-02-27 10:18:19-06,77,125894
+freq,quarterly,,2012-02-27 10:18:19-06,83,111152
+gen,5-year,,2012-02-27 10:18:19-06,78,107112
+gen,employment,,2012-02-27 10:18:19-06,73,106368
+rls,acs,American Community Survey,2014-05-22 12:32:43-05,77,101258
+seas,sa,Seasonally Adjusted,2012-02-27 10:18:19-06,86,94660
+geot,state,State,2012-02-27 10:18:19-06,74,90498
+src,realtor.com,,2020-03-24 11:15:04-05,68,90270
+gen,population,,2012-02-27 10:18:19-06,78,87768
+geot,msa,Metropolitan Statistical Area,2012-02-27 10:18:19-06,75,86894
+gen,price,,2013-07-11 11:24:55-05,85,84800
+rls,saipe,Small Area Income & Poverty Estimates,2015-12-30 13:26:34-06,69,81004
+src,bea,Bureau of Economic Analysis,2012-02-27 10:18:19-06,78,78382
+src,frb stl,St. Louis Fed,2012-02-27 10:18:19-06,70,78282
+gen,gdp,Gross Domestic Product,2012-02-27 10:18:19-06,79,74152
+gen,poverty,,2015-10-23 13:30:04-05,65,70856
+gen,estimate,,2017-05-19 08:57:49-05,73,65972
+gen,child,,2013-03-08 15:28:31-06,63,65564
+gen,industry,,2012-02-27 10:18:19-06,78,64064
+src,oecd,Org. for Economic Co-operation and Development,2012-02-27 10:18:19-06,72,64038
+src,frb,Board of Governors,2012-02-27 10:18:19-06,78,62416
+rls,mei,Main Economic Indicators,2012-08-16 15:21:17-05,71,61418
+gen,private,,2012-02-27 10:18:19-06,69,60314
+rls,sae,"State and Metro Area Employment, Hours, and Earnings",2014-02-02 06:12:27-06,62,59810
+gen,services,,2012-02-27 10:18:19-06,68,57382
+gen,discontinued,,2012-02-27 10:18:19-06,65,56142
+gen,median,,2012-02-27 10:18:19-06,69,51714
+gen,indexes,,2012-02-27 10:18:19-06,85,48070
+gen,rate,,2012-02-27 10:18:19-06,82,47550
+gen,listing,,2020-03-23 13:49:52-05,64,47244
+rls,z1,Z.1 US Financial Accounts,2012-08-16 15:21:17-05,62,46254
+gen,price index,,2012-02-27 10:18:19-06,83,42224
+gen,percent,,2012-02-27 10:18:19-06,63,37962
+gen,manufacturing,,2012-02-27 10:18:19-06,72,36696
+geo,tx,Texas,2012-02-27 10:18:19-06,68,36096
+gen,income,,2012-02-27 10:18:19-06,70,34768
+gen,real,,2012-02-27 10:18:19-06,73,34038
+gen,labor,,2012-02-27 10:18:19-06,62,33602
+gen,unemployment,,2012-02-27 10:18:19-06,70,32930
+gen,goods,,2012-02-27 10:18:19-06,67,32738
+gen,assets,,2012-02-27 10:18:19-06,63,32682
+gen,latino,,2012-02-27 10:18:19-06,61,32284
+gen,hispanic,,2012-02-27 10:18:19-06,61,32270
+gen,non-hispanic,,2015-02-03 16:11:30-06,69,31308
+gen,government,,2012-02-27 10:18:19-06,65,30034
+gen,business,,2012-02-27 10:18:19-06,60,29296
+gen,depository institutions,,2012-02-27 10:18:19-06,70,27378
+gen,labor force,,2012-02-27 10:18:19-06,59,26478
+rls,market hotness,,2020-04-24 12:41:55-05,51,25670
+gen,exports,,2012-02-27 10:18:19-06,53,25472
+gen,households,,2012-02-27 10:18:19-06,65,25402
+gen,private industries,,2012-02-27 10:18:19-06,57,25300
+gen,banks,,2012-02-27 10:18:19-06,69,24030
+gen,transactions,,2019-08-19 12:50:29-05,48,22812
+gen,financial,,2012-02-27 10:18:19-06,55,22582
+gen,education,,2012-02-27 10:18:19-06,58,22308
+gen,production,,2012-02-27 10:18:19-06,62,21846
+gen,household survey,Current Population Survey (Household Survey),2012-06-18 08:18:21-05,65,21516
+gen,family,,2015-05-06 14:46:00-05,55,21096
+geo,ga,Georgia (U.S. state),2012-02-27 10:18:19-06,56,20988
+gen,cpi,Consumer Price Index,2012-02-27 10:18:19-06,68,20780
+gen,gsp,Gross State Product,2014-06-12 09:41:44-05,56,20578
+rls,industry productivity,,2021-06-08 22:08:30-05,49,19924
+gen,5 to 17 years,,2015-11-24 14:10:14-06,46,19320
+gen,under 18 years,,2015-11-24 14:01:58-06,49,19270
+gen,expenditures,,2012-02-27 10:18:19-06,57,19024
+gen,naics,North American Industry Classification System,2012-02-27 10:18:19-06,50,18764
+rls,ces,Consumer Expenditure Surveys,2021-07-21 12:45:07-05,51,18388
+geo,ca,California,2012-02-27 10:18:19-06,62,18304
+geo,va,Virginia,2012-02-27 10:18:19-06,56,17342
+src,world bank,,2012-02-27 10:18:19-06,70,16810
+geo,nc,North Carolina,2012-02-27 10:18:19-06,58,16758
+gen,insurance,,2012-02-27 10:18:19-06,48,16732
+geo,oh,Ohio,2012-02-27 10:18:19-06,54,16730
+gen,females,,2012-02-27 10:18:19-06,46,16234
+geo,il,Illinois,2012-02-27 10:18:19-06,51,16172
+gen,housing,,2012-02-27 10:18:19-06,72,16106
+gen,males,,2012-02-27 10:18:19-06,46,16072
+gen,personal,,2012-02-27 10:18:19-06,65,15998
+gen,inflation,,2012-06-08 15:10:11-05,78,15788
+gen,securities,,2012-02-27 10:18:19-06,59,15718
+gen,average,,2015-05-06 14:42:19-05,56,15638
+geo,mo,Missouri,2012-02-27 10:18:19-06,53,15560
+gen,liabilities,,2012-02-27 10:18:19-06,51,15460
+geo,in,Indiana,2012-02-27 10:18:19-06,54,15448
+geo,ky,Kentucky,2012-02-27 10:18:19-06,57,15336
+geo,mi,Michigan,2012-02-27 10:18:19-06,54,15148
+src,imf,International Monetary Fund,2012-02-27 10:18:19-06,66,15052
+gen,wages,,2012-02-27 10:18:19-06,61,15036
+geo,pa,Pennsylvania,2012-02-27 10:18:19-06,53,15032
+gen,tax,,2012-02-27 10:18:19-06,54,15028
+gen,ppi,Producer Price Index,2012-02-27 10:18:19-06,75,14964
+gen,ip,Industrial Production,2012-02-27 10:18:19-06,55,14590
+geo,ny,New York,2012-02-27 10:18:19-06,58,14514
+geo,fl,Florida,2012-02-27 10:18:19-06,60,14504
+gen,hours,,2012-02-27 10:18:19-06,57,14364
+gen,sales,,2012-02-27 10:18:19-06,63,14198
+gen,establishments,,2013-11-13 15:52:19-06,51,14154
+gen,transportation,,2012-02-27 10:18:19-06,55,13938
+gen,trade,,2012-02-27 10:18:19-06,54,13790
+geo,tn,Tennessee,2012-02-27 10:18:19-06,53,13596
+geot,transnational,Transnational,2012-08-10 11:26:49-05,63,13376
+gen,net,,2012-02-27 10:18:19-06,60,13162
+geo,wi,Wisconsin,2012-02-27 10:18:19-06,56,13108
+geo,ia,Iowa,2012-02-27 10:18:19-06,51,13098
+geo,ks,Kansas,2012-02-27 10:18:19-06,45,12928
+gen,domestic,,2012-02-27 10:18:19-06,59,12786
+gen,food,,2012-02-27 10:18:19-06,60,12772
+rls,nipa,National Income and Product Accounts,2012-08-16 15:21:17-05,68,12720
+gen,earnings,,2012-02-27 10:18:19-06,54,12586
+geo,mn,Minnesota,2012-02-27 10:18:19-06,50,12542
+gen,retail,,2012-02-27 10:18:19-06,63,12378
+gen,finance,,2012-02-27 10:18:19-06,48,12338
+gen,durable goods,,2013-10-18 10:23:26-05,56,11640
+gen,square feet,,2020-03-23 13:50:10-05,49,11584
+geo,al,Alabama,2012-02-27 10:18:19-06,49,11494
+geo,ms,Mississippi,2012-02-27 10:18:19-06,54,11078
+geo,ne,Nebraska,2012-02-27 10:18:19-06,47,11052
+gen,workers,,2012-02-27 10:18:19-06,54,10832
+gen,loans,,2012-02-27 10:18:19-06,64,10806
+geo,ok,Oklahoma,2012-02-27 10:18:19-06,50,10746
+gen,retail trade,,2012-02-27 10:18:19-06,57,10676
+gen,consumption,,2012-02-27 10:18:19-06,60,10604
+rls,pwt,Penn World Table,2012-08-24 09:00:17-05,58,10458
+geo,ar,Arkansas,2012-02-27 10:18:19-06,48,10350
+gen,federal,,2012-02-27 10:18:19-06,59,10344
+gen,white,,2012-02-27 10:18:19-06,57,10300
+geo,la,Louisiana,2012-02-27 10:18:19-06,48,10268
+gen,corporate,,2012-02-27 10:18:19-06,59,10204
+gen,investment,,2012-02-27 10:18:19-06,54,10134
+gen,revaluation,,2019-05-24 09:03:23-05,30,9950
+gen,educational attainment,,2014-05-21 07:22:46-05,52,9876
+gen,harmonized,,2012-02-27 10:18:19-06,49,9830
+geo,co,Colorado,2012-02-27 10:18:19-06,51,9788
+rls,hicp,Harmonized Index of Consumer Prices,2012-10-15 09:41:39-05,44,9718
+gen,health,,2012-02-27 10:18:19-06,48,9556
+gen,companies,,2012-02-27 10:18:19-06,45,9554
+gen,civilian,,2012-02-27 10:18:19-06,55,9548
+gen,per capita,,2012-02-27 10:18:19-06,60,9446
+gen,equipment,,2012-02-27 10:18:19-06,56,9350
+gen,tertiary schooling,Post-secondary Schooling,2014-05-21 07:24:40-05,51,9338
+rls,gfd,Global Financial Development,2013-06-05 11:42:03-05,59,9234
+geo,wa,Washington (state),2012-02-27 10:18:19-06,53,9088
+geo,sc,South Carolina,2012-02-27 10:18:19-06,52,8988
+geo,wv,West Virginia,2012-02-27 10:18:19-06,50,8896
+gen,pending,,2020-03-23 13:48:40-05,31,8886
+gen,salaries,,2012-02-27 10:18:19-06,52,8818
+gen,construction,,2012-02-27 10:18:19-06,59,8712
+gen,quantity index,,2012-02-27 10:18:19-06,41,8606
+gen,deposits,,2012-02-27 10:18:19-06,54,8518
+gen,debt,,2012-02-27 10:18:19-06,56,8454
+gen,ppp,Purchasing Power Parity,2012-08-27 11:34:54-05,46,8366
+gen,consumer,,2012-02-27 10:18:19-06,66,8348
+gen,personal income,,2012-02-27 10:18:19-06,57,8334
+gen,new,,2012-02-27 10:18:19-06,62,8288
+gen,enterprises,,2012-02-27 10:18:19-06,39,8278
+gen,nonfinancial,,2012-02-27 10:18:19-06,51,8100
+gen,sector,,2012-02-27 10:18:19-06,53,8038
+geo,or,Oregon,2012-02-27 10:18:19-06,44,8014
+gen,commercial,,2012-02-27 10:18:19-06,58,7968
+geo,sd,South Dakota,2012-02-27 10:18:19-06,51,7942
+src,eurostat,Statistical Office of the European Communities,2012-08-02 10:13:50-05,51,7932
+gen,capital,,2012-02-27 10:18:19-06,53,7848
+gen,buildings,,2012-02-27 10:18:19-06,56,7832
+rls,qcew,Quarterly Census of Employment & Wages,2015-09-16 08:12:07-05,43,7648
+gen,nondurable goods,,2013-10-18 11:17:22-05,49,7642
+geo,nj,New Jersey,2012-02-27 10:18:19-06,47,7600
+gen,bop,Balance of Payments,2013-01-28 14:10:13-06,45,7518
+geo,ak,Alaska,2012-02-27 10:18:19-06,44,7492
+rls,wdi,World Development Indicators,2012-08-16 15:21:17-05,65,7450
+gen,residents,,2013-03-08 15:37:43-06,58,7402
+gen,professional,,2012-02-27 10:18:19-06,44,7384
+src,bis,Bank for International Settlements,2013-06-03 14:31:44-05,56,7344
+gen,commodities,,2012-02-27 10:18:19-06,69,7186
+geo,id,Idaho,2012-02-27 10:18:19-06,43,7158
+gen,gross,,2012-02-27 10:18:19-06,55,7126
+gen,patents,,2017-06-09 15:45:32-05,42,7124
+gen,consumption expenditures,,2012-02-27 10:18:19-06,59,7102
+geo,nd,North Dakota,2012-02-27 10:18:19-06,43,7098
+geo,mt,Montana,2012-02-27 10:18:19-06,43,7018
+gen,african-american,,2017-05-19 09:12:12-05,52,6990
+gen,15 to 24 years,,2013-01-29 16:08:39-06,38,6982
+geo,md,Maryland,2012-02-27 10:18:19-06,49,6940
+gen,finance companies,,2012-06-25 15:10:25-05,40,6836
+gen,asian,,2012-02-27 10:18:19-06,49,6790
+gen,participation,,2013-02-22 10:50:42-06,49,6704
+gen,intellectual property,,2013-11-13 15:59:52-06,36,6422
+gen,gas,,2012-02-27 10:18:19-06,52,6418
+gen,death,,2012-02-27 10:18:19-06,46,6336
+gen,credits,,2012-02-27 10:18:19-06,50,6294
+gen,services-providing,Services-Providing Industries,2019-10-30 08:38:12-05,35,6238
+geo,ma,Massachusetts,2012-02-27 10:18:19-06,48,6220
+geo,pacific islands,,2016-06-15 11:31:33-05,51,6210
+gen,premature,,2017-06-09 15:45:08-05,46,6208
+gen,vehicles,,2012-02-27 10:18:19-06,56,6208
+gen,american indian,,2017-05-19 09:37:57-05,49,6202
+gen,goods-producing,Goods-Producing Industries,2019-10-30 08:37:29-05,36,6164
+geo,europe,,2012-02-27 10:18:19-06,54,6138
+gen,secondary,,2012-02-27 10:18:19-06,45,6132
+gen,utilities,,2012-02-27 10:18:19-06,44,6120
+gen,foreign,,2012-02-27 10:18:19-06,43,6114
+gen,employer firms,,2013-11-13 16:12:41-06,42,6108
+gen,issues,,2014-02-12 11:03:19-06,35,6098
+gen,rent,,2012-02-27 10:18:19-06,50,6066
+gen,25 years +,,2012-02-27 10:18:19-06,47,6048
+gen,reduced count,,2020-03-23 13:50:30-05,30,5980
+geo,nm,New Mexico,2012-02-27 10:18:19-06,41,5978
+gen,15 years +,15 years and over,2013-01-29 16:16:45-06,36,5970
+src,upenn,Univ. of Pennsylvania,2012-08-24 08:56:09-05,48,5922
+gen,payrolls,,2012-02-27 10:18:19-06,48,5900
+gen,active listing,,2020-03-23 13:46:37-05,52,5876
+geo,ut,Utah,2012-02-27 10:18:19-06,44,5846
+gen,full-time,,2012-02-27 10:18:19-06,46,5818
+gen,16 years +,,2012-02-27 10:18:19-06,57,5812
+gen,fuels,,2012-02-27 10:18:19-06,45,5714
+gen,pension,,2012-02-27 10:18:19-06,30,5646
+gen,origination,,2013-12-17 15:22:06-06,39,5598
+gen,flow,,2012-06-25 15:08:38-05,45,5570
+gen,mining,,2012-02-27 10:18:19-06,51,5568
+gen,secondary schooling,,2014-05-22 12:36:41-05,44,5516
+gen,miscellaneous,,2012-07-25 09:21:43-05,38,5478
+gen,occupation,,2012-02-27 10:18:19-06,42,5444
+gen,cost,,2013-07-11 11:22:32-05,36,5420
+gen,15 to 64 years,,2013-01-29 16:14:06-06,44,5380
+gen,equity,,2012-02-27 10:18:19-06,45,5352
+gen,55 to 64 years,,2013-01-29 16:12:27-06,18,5344
+gen,ima,Integrated Macroeconomic Accounts,2013-07-11 13:07:24-05,41,5338
+gen,information,,2012-02-27 10:18:19-06,42,5314
+gen,compensation,,2012-02-27 10:18:19-06,47,5296
+gen,urban,,2012-02-27 10:18:19-06,60,5280
+gen,25 to 54 years,,2012-02-27 10:18:19-06,36,5264
+gen,fixed,,2012-02-27 10:18:19-06,50,5230
+src,eia,Energy Information Administration,2012-02-27 10:18:19-06,45,5228
+gen,rank,,2020-03-26 14:46:55-05,31,5186
+gen,benefits,,2012-02-27 10:18:19-06,50,5184
+gen,consumer unit,,2021-01-13 15:51:21-06,36,5130
+gen,life,,2013-07-17 15:52:32-05,34,5082
+geo,az,Arizona,2012-02-27 10:18:19-06,47,5078
+gen,ratio,,2012-02-27 10:18:19-06,47,5038
+gen,imports,,2012-02-27 10:18:19-06,50,4922
+gen,carbon dioxide emissions,,2020-01-03 12:33:15-06,33,4916
+gen,warehousing,,2012-02-27 10:18:19-06,43,4916
+gen,unit labor cost,,2012-02-27 10:18:19-06,37,4912
+gen,purchase,,2012-07-24 16:24:48-05,42,4864
+gen,nonfarm,,2012-02-27 10:18:19-06,54,4858
+gen,patent granted,,2021-04-05 16:47:56-05,33,4832
+gen,output,,2012-02-27 10:18:19-06,42,4822
+gen,mortgage,,2012-02-27 10:18:19-06,51,4818
+gen,electricity,,2012-02-27 10:18:19-06,47,4616
+gen,residential,,2012-02-27 10:18:19-06,56,4608
+geo,new york,,2012-02-27 10:18:19-06,48,4590
+gen,nonresidential,,2012-02-27 10:18:19-06,44,4538
+src,"university of california, davis",,2014-03-24 15:02:59-05,53,4536
+src,university of groningen,,2013-07-22 11:48:28-05,53,4536
+gen,wholesale,,2012-02-27 10:18:19-06,43,4532
+cc,copyrighted: pre-approval required,,2018-12-17 23:33:13-06,61,4526
+gen,age,,2017-05-19 09:47:02-05,41,4504
+geot,metropolitan division,,2012-09-04 15:04:55-05,42,4490
+gen,hospitals,,2012-02-27 10:18:19-06,38,4456
+geo,ct,Connecticut,2012-02-27 10:18:19-06,43,4376
+gen,current account,,2012-02-27 10:18:19-06,36,4368
+gen,recreation,,2012-02-27 10:18:19-06,39,4342
+gen,permits,,2012-02-27 10:18:19-06,52,4306
+gen,pce,Personal Consumption Expenditures,2012-02-27 10:18:19-06,56,4300
+gen,bonds,,2012-02-27 10:18:19-06,55,4298
+gen,beverages,,2012-02-27 10:18:19-06,41,4286
+gen,leases,,2012-02-27 10:18:19-06,45,4260
+geo,nv,Nevada,2012-02-27 10:18:19-06,44,4258
+gen,social assistance,,2012-02-27 10:18:19-06,38,4204
+gen,apparel,,2012-02-27 10:18:19-06,49,4178
+geo,nh,New Hampshire,2012-02-27 10:18:19-06,42,4178
+gen,real estate,,2012-02-27 10:18:19-06,51,4166
+geo,me,Maine,2012-02-27 10:18:19-06,41,4090
+geo,wy,Wyoming,2012-02-27 10:18:19-06,35,4070
+gen,contributions,,2012-02-27 10:18:19-06,38,4048
+gen,homeownership,,2017-01-05 10:57:58-06,45,4028
+geo,atlanta,,2012-02-27 10:18:19-06,42,3996
+gen,associate degree,,2012-02-27 10:18:19-06,39,3994
+gen,accounting,,2012-02-27 10:18:19-06,44,3992
+gen,agriculture,,2012-02-27 10:18:19-06,49,3962
+gen,supplies,,2012-02-27 10:18:19-06,46,3942
+gen,management,,2012-02-27 10:18:19-06,32,3912
+gen,intermediate,,2013-03-26 16:26:06-05,41,3858
+gen,score,,2020-04-24 12:40:47-05,34,3828
+gen,accommodation,,2012-02-27 10:18:19-06,36,3752
+gen,chained,,2012-02-27 10:18:19-06,45,3674
+gen,employment-population ratio,,2012-02-27 10:18:19-06,41,3662
+gen,maturity,,2012-02-27 10:18:19-06,54,3650
+gen,migration,,2014-05-16 11:15:46-05,43,3622
+gen,15 to 74 years,,2013-02-22 10:40:53-06,25,3616
+freq,weekly,,2012-02-27 10:18:19-06,65,3592
+geo,vt,Vermont,2012-02-27 10:18:19-06,35,3590
+gen,state & local,,2012-02-27 10:18:19-06,38,3528
+gen,entertainment,,2012-02-27 10:18:19-06,35,3486
+gen,change,,2020-05-11 13:13:02-05,26,3468
+src,frb ny,New York Fed,2014-03-25 10:30:11-05,48,3462
+gen,food stamps,,2014-04-07 14:53:05-05,49,3438
+gen,snap,Supplemental Nutrition Assistance Program (SNAP),2015-03-10 09:29:31-05,48,3436
+gen,nonprofit organizations,,2012-02-27 10:18:19-06,42,3434
+gen,reserves,,2012-02-27 10:18:19-06,51,3332
+gen,nutrition,,2015-09-15 11:23:37-05,48,3322
+geot,bea region,Bureau of Economic Analysis Region,2012-02-27 10:18:19-06,35,3292
+gen,advanced degree,,2014-05-22 12:51:19-05,38,3290
+gen,arts,,2012-02-27 10:18:19-06,34,3270
+gen,mmmf,Money Market Mutual Fund,2012-05-18 13:49:45-05,36,3266
+gen,admissions,,2014-03-07 09:11:50-06,32,3256
+gen,energy,,2012-02-27 10:18:19-06,50,3218
+rls,call reports,Reports of Condition and Income for All Insured U.S. Commercial Banks,2012-08-16 15:21:17-05,37,3204
+gen,non-white,,2017-02-08 12:02:11-06,37,3200
+gen,racial dissimilarity,,2017-02-08 11:57:35-06,37,3198
+gen,subprime,,2012-02-27 10:18:19-06,39,3188
+src,equifax,,2017-01-31 08:56:03-06,38,3182
+geo,united kingdom,,2012-02-27 10:18:19-06,53,3164
+gen,commuting time,,2017-02-08 09:41:25-06,34,3148
+gen,burdened,,2017-02-01 14:01:39-06,35,3142
+gen,inequality,,2017-02-06 12:51:30-06,40,3132
+gen,hpi,House Price Index,2012-08-16 15:21:17-05,65,3122
+gen,native alaskan,,2017-05-19 09:38:22-05,48,3120
+gen,disconnected youth,,2017-01-30 16:09:47-06,35,3118
+gen,single-parent,,2017-01-31 20:58:20-06,43,3092
+gen,preventable,,2017-02-08 10:19:38-06,29,3088
+gen,metals,,2012-02-27 10:18:19-06,55,3086
+geo,germany,,2012-02-27 10:18:19-06,50,3076
+gen,3-month,,2012-02-27 10:18:19-06,51,3068
+gen,local govt,Local Government,2013-03-22 14:27:47-05,26,3062
+geo,washington,Washington (Metropolitan Area),2012-02-27 10:18:19-06,45,3062
+gen,hospitality,,2012-02-27 10:18:19-06,37,3054
+src,nber,National Bureau of Economic Research,2012-02-27 10:18:19-06,54,3012
+geo,japan,,2012-02-27 10:18:19-06,53,3006
+gen,interest,,2012-02-27 10:18:19-06,70,3002
+src,ffiec,Federal Financial Institutions Examination Council,2012-02-27 10:18:19-06,37,2988
+gen,leisure,,2012-02-27 10:18:19-06,36,2968
+geo,hi,Hawaii,2012-02-27 10:18:19-06,36,2948
+gen,currency,,2012-02-27 10:18:19-06,58,2946
+geo,euro area,,2012-02-27 10:18:19-06,50,2940
+gen,revenue,,2013-11-13 16:14:29-06,46,2936
+geo,france,,2012-02-27 10:18:19-06,45,2926
+gen,crime,,2017-01-31 20:02:00-06,35,2876
+src,federal bureau of investigation,,2017-01-31 11:59:41-06,35,2876
+gen,property crime,,2017-01-31 20:13:04-06,35,2876
+gen,violent crime,,2017-01-31 20:09:25-06,35,2876
+gen,working-age,,2012-02-27 10:18:19-06,39,2870
+gen,adjusted,,2012-02-27 10:18:19-06,45,2860
+src,fhfa,Federal Housing Finance Agency,2012-02-27 10:18:19-06,60,2842
+geo,italy,,2012-02-27 10:18:19-06,44,2824
+geo,chicago,,2012-02-27 10:18:19-06,43,2822
+gen,productivity,,2012-02-27 10:18:19-06,41,2822
+seas,scoos,Senior Credit Officer Opinion Survey on Dealer Financing Terms,2025-04-07 09:56:42-05,0,2794
+gen,all items,,2012-02-27 10:18:19-06,58,2756
+geo,canada,,2012-02-27 10:18:19-06,49,2754
+gen,parts,,2012-02-27 10:18:19-06,49,2728
+geo,sweden,,2012-02-27 10:18:19-06,37,2728
+geo,finland,,2012-02-27 10:18:19-06,29,2722
+geo,poland,,2012-02-27 10:18:19-06,36,2718
+geo,czech republic,,2012-02-27 10:18:19-06,29,2716
+gen,water,,2012-07-24 16:39:30-05,34,2714
+geo,ri,Rhode Island,2012-02-27 10:18:19-06,34,2704
+geo,hungary,,2012-02-27 10:18:19-06,30,2702
+gen,state govt,State Government,2013-03-22 14:25:13-05,27,2700
+geo,netherlands,,2012-02-27 10:18:19-06,35,2692
+gen,percentile,,2019-06-27 13:17:44-05,48,2660
+geo,belgium,,2012-02-27 10:18:19-06,30,2648
+geo,korea,Korea,2012-02-27 10:18:19-06,44,2640
+rls,g17,G.17 Industr. Production & Capacity Utilization,2012-08-16 15:21:17-05,52,2628
+geo,norway,,2012-02-27 10:18:19-06,34,2628
+gen,furniture,,2012-02-27 10:18:19-06,36,2622
+gen,healthcare,,2015-02-03 15:09:14-06,36,2620
+geo,ireland,,2012-02-27 10:18:19-06,32,2618
+geo,portugal,,2012-02-27 10:18:19-06,31,2618
+gen,electronics,,2012-02-27 10:18:19-06,46,2616
+geo,australia,,2012-02-27 10:18:19-06,45,2608
+geo,denmark,,2012-02-27 10:18:19-06,32,2604
+geo,greece,,2012-02-27 10:18:19-06,35,2596
+geo,slovakia,Slovak Republic,2012-02-27 10:18:19-06,22,2596
+gen,retirement,,2012-02-27 10:18:19-06,26,2580
+gen,science,,2013-10-17 10:15:29-05,30,2572
+geo,spain,,2012-02-27 10:18:19-06,39,2562
+geo,austria,,2012-02-27 10:18:19-06,29,2538
+geo,luxembourg,,2012-02-27 10:18:19-06,26,2532
+geo,estonia,,2012-02-27 10:18:19-06,23,2526
+geo,turkey,,2012-02-27 10:18:19-06,42,2522
+rls,qfr,Quarterly Financial Report,2017-11-06 11:42:54-06,30,2512
+geo,slovenia,,2012-02-27 10:18:19-06,20,2510
+geo,de,Delaware,2012-02-27 10:18:19-06,33,2462
+gen,administrative,,2012-02-27 10:18:19-06,24,2440
+geot,necta,New England City and Town Areas,2012-02-27 10:18:19-06,31,2396
+geo,switzerland,,2012-02-27 10:18:19-06,38,2384
+geo,st. louis,,2012-02-27 10:18:19-06,35,2374
+rls,e2,E.2 Surv. of Terms of Business Lending,2012-08-16 15:21:17-05,30,2358
+gen,financial account,,2013-01-29 09:54:45-06,28,2350
+gen,machinery,,2012-02-27 10:18:19-06,50,2330
+geo,columbus,,2012-02-27 10:18:19-06,36,2324
+gen,printing,,2012-02-27 10:18:19-06,34,2310
+gen,computers,,2012-02-27 10:18:19-06,40,2306
+gen,patent assignment,,2021-04-05 16:48:22-05,36,2292
+geo,kansas city,Kansas City,2012-02-27 10:18:19-06,34,2290
+geo,minneapolis,,2012-02-27 10:18:19-06,35,2286
+gen,waste,,2012-02-27 10:18:19-06,27,2268
+gen,agency,,2012-02-27 10:18:19-06,34,2264
+geo,iceland,,2012-02-27 10:18:19-06,24,2256
+geo,israel,,2012-02-27 10:18:19-06,28,2222
+gen,support activities,,2013-10-17 10:05:24-05,32,2218
+gen,dealers,,2012-02-27 10:18:19-06,38,2206
+geo,philadelphia,,2012-02-27 10:18:19-06,37,2204
+gen,receivables,Amounts owed to a business; regarded as assets.,2019-05-24 09:15:23-05,13,2186
+gen,communication,,2012-02-27 10:18:19-06,31,2176
+geo,dallas,,2012-02-27 10:18:19-06,41,2176
+geo,richmond,,2012-02-27 10:18:19-06,33,2174
+gen,second quartile,,2015-02-03 09:03:44-06,33,2166
+geo,chile,,2012-02-27 10:18:19-06,31,2162
+gen,maintenance,,2012-07-24 17:17:15-05,33,2160
+gen,treasury,,2012-02-27 10:18:19-06,59,2148
+geo,mexico,,2012-02-27 10:18:19-06,43,2144
+rls,ifs,International Financial Statistics,2012-08-16 15:21:17-05,54,2142
+geo,eu,European Union,2013-07-12 11:28:01-05,37,2114
+geo,springfield,,2012-02-27 10:18:19-06,31,2112
+geo,virginia beach,,2012-02-27 10:18:19-06,36,2106
+geo,cincinnati,,2012-02-27 10:18:19-06,36,2082
+gen,gse,Government-Sponsored Enterprise,2013-07-15 10:57:45-05,28,2070
+gen,fees,,2013-03-08 15:22:15-06,34,2064
+freq,semiannual,,2012-02-27 10:18:19-06,35,2026
+gen,market value,,2013-05-13 11:38:58-05,35,2004
+gen,repair,,2012-07-25 09:44:02-05,32,1998
+src,frb dal,Dallas Fed,2013-12-27 15:18:38-06,34,1996
+geo,portland,,2012-02-27 10:18:19-06,35,1994
+gen,repurchase agreements,,2012-02-27 10:18:19-06,33,1994
+gen,paid,,2019-08-19 12:54:55-05,35,1974
+gen,telecom,,2013-03-11 11:08:41-05,25,1974
+rls,h8,H.8 Assets & Liabilities of US Commercial Banks,2012-08-16 15:21:17-05,54,1960
+geo,dc,District of Columbia,2012-02-27 10:18:19-06,35,1954
+geo,houston,,2012-02-27 10:18:19-06,41,1932
+gen,tobacco,,2012-02-27 10:18:19-06,32,1926
+gen,processed,,2012-07-25 13:50:52-05,45,1920
+gen,demand,,2015-12-04 11:03:04-06,26,1914
+gen,medical,,2012-02-27 10:18:19-06,39,1914
+gen,borrowings,,2012-02-27 10:18:19-06,35,1908
+geo,new zealand,,2012-02-27 10:18:19-06,34,1900
+gen,coefficient,,2020-01-03 12:34:53-06,15,1888
+gen,mutual funds,,2013-06-03 14:07:35-05,31,1882
+gen,public,,2012-02-27 10:18:19-06,38,1870
+gen,monetary authorities,,2013-10-22 16:13:30-05,25,1854
+gen,primary,,2012-02-27 10:18:19-06,47,1834
+geo,boston,,2012-02-27 10:18:19-06,39,1832
+freq,daily,,2012-02-27 10:18:19-06,68,1828
+gen,u.s.-chartered,,2019-08-19 12:52:02-05,20,1818
+gen,credit unions,,2012-06-25 14:39:51-05,20,1782
+gen,reo,Regional Economic Outlook,2015-12-07 09:06:41-06,48,1754
+gen,materials,,2012-02-27 10:18:19-06,46,1750
+gen,inventories,,2012-02-27 10:18:19-06,48,1738
+gen,mills,,2012-08-07 09:49:18-05,43,1732
+gen,business applications,,2019-03-19 15:47:13-05,33,1718
+gen,logging,,2012-02-27 10:18:19-06,36,1718
+geo,albany,,2012-02-27 10:18:19-06,30,1704
+gen,birth,,2015-09-15 10:10:35-05,38,1698
+gen,business formations,,2019-03-19 15:47:13-05,17,1694
+gen,operating,,2012-12-31 13:49:01-06,36,1690
+gen,funds,,2020-05-11 13:13:02-05,30,1688
+gen,software,,2012-02-27 10:18:19-06,33,1686
+gen,receipts,,2012-02-27 10:18:19-06,41,1678
+gen,notes,,2012-02-27 10:18:19-06,35,1676
+geo,nashville,,2012-02-27 10:18:19-06,36,1672
+geo,world,,2013-07-13 16:53:00-05,54,1656
+geot,census region,Census Region,2012-02-27 10:18:19-06,40,1652
+geot,frb district,Federal Reserve District,2012-02-27 10:18:19-06,36,1650
+gen,intermediaries,,2019-08-19 12:17:09-05,12,1642
+gen,trucks,,2012-02-27 10:18:19-06,45,1640
+gen,noncorporate,,2012-02-27 10:18:19-06,23,1638
+geo,indianapolis,,2012-02-27 10:18:19-06,29,1636
+gen,collection,,2012-05-16 15:10:01-05,31,1634
+gen,debit,,2013-07-11 11:22:44-05,11,1630
+gen,ease,,2014-05-16 11:14:18-05,20,1620
+geo,south africa,,2012-02-27 10:18:19-06,40,1610
+geo,detroit,,2012-02-27 10:18:19-06,34,1604
+geo,latvia,,2012-02-27 10:18:19-06,18,1604
+geo,louisville,,2012-02-27 10:18:19-06,35,1596
+gen,savings,,2012-02-27 10:18:19-06,43,1590
+gen,stocks,,2012-02-27 10:18:19-06,41,1576
+geo,cleveland,,2012-02-27 10:18:19-06,32,1572
+geo,jackson,,2012-02-27 10:18:19-06,31,1564
+gen,brokers,,2013-02-26 15:23:45-06,28,1562
+gen,interest rate,,2012-05-29 10:14:19-05,69,1562
+geo,denver,,2012-02-27 10:18:19-06,36,1560
+gen,merchant,,2013-10-21 14:19:01-05,33,1544
+gen,monetary aggregates,,2012-02-27 10:18:19-06,52,1538
+gen,infrastructure,,2012-08-07 09:21:25-05,26,1526
+gen,small,,2012-07-27 08:31:55-05,35,1526
+gen,property-casualty,,2019-08-19 14:59:32-05,22,1524
+gen,residual,,2012-08-17 09:42:13-05,25,1498
+gen,transfers,,2012-02-27 10:18:19-06,30,1482
+gen,appliances,,2012-02-27 10:18:19-06,36,1478
+gen,exchange rate,,2012-02-27 10:18:19-06,57,1476
+gen,chemicals,,2012-02-27 10:18:19-06,47,1470
+gen,wood,,2012-02-27 10:18:19-06,43,1470
+gen,fishing,,2012-02-27 10:18:19-06,27,1466
+rls,h41,H.4.1 Factors Affecting Reserve Balances,2012-08-16 15:21:17-05,52,1462
+gen,general accounts,,2019-08-19 14:59:57-05,27,1458
+gen,payments,,2012-02-27 10:18:19-06,39,1454
+gen,instruments,,2012-02-27 10:18:19-06,28,1450
+gen,textiles,,2012-02-27 10:18:19-06,37,1444
+rls,mxp,U.S. Import & Export Price Indexes,2012-08-16 15:21:17-05,43,1438
+geo,baltimore,,2012-02-27 10:18:19-06,32,1424
+geo,rochester,,2012-02-27 10:18:19-06,28,1424
+geo,charleston,,2012-02-27 10:18:19-06,30,1406
+gen,no college,,2012-02-27 10:18:19-06,23,1392
+geo,san francisco,,2012-02-27 10:18:19-06,41,1392
+geo,russia,,2012-02-27 10:18:19-06,40,1386
+gen,oil,,2012-02-27 10:18:19-06,50,1372
+gen,petroleum,,2012-02-27 10:18:19-06,34,1366
+gen,travel,,2012-02-27 10:18:19-06,41,1356
+geo,pittsburgh,,2012-02-27 10:18:19-06,32,1352
+gen,paper,,2012-08-01 13:54:48-05,44,1346
+gen,restaurant,,2012-07-25 11:24:49-05,31,1344
+gen,fabrication,,2012-02-27 10:18:19-06,35,1330
+gen,separations,,2012-02-27 10:18:19-06,25,1316
+gen,nielsen,,2020-04-24 12:39:46-05,16,1312
+gen,adult,,2013-06-03 13:49:14-05,30,1302
+gen,branches,,2015-12-22 12:24:07-06,18,1302
+gen,liquidity,,2012-02-27 10:18:19-06,40,1302
+geo,g7,Group of 7,2013-07-12 16:11:34-05,12,1274
+geo,columbia,,2012-02-27 10:18:19-06,29,1270
+geo,omaha,,2012-02-27 10:18:19-06,27,1266
+gen,collateral,,2012-02-27 10:18:19-06,22,1262
+gen,book,,2012-07-25 10:49:30-05,23,1250
+gen,coal,,2012-02-27 10:18:19-06,32,1248
+gen,forestry,,2012-02-27 10:18:19-06,26,1238
+gen,cash,,2012-08-16 12:05:28-05,35,1226
+geo,brazil,,2012-02-27 10:18:19-06,42,1216
+gen,used,,2012-02-27 10:18:19-06,33,1210
+gen,value added,,2012-02-27 10:18:19-06,38,1210
+gen,1-year,,2012-02-27 10:18:19-06,40,1202
+geo,baton rouge,,2012-02-27 10:18:19-06,26,1190
+geo,providence,,2012-02-27 10:18:19-06,26,1184
+gen,alcohol,,2012-07-24 16:16:41-05,32,1182
+gen,internet,,2012-12-31 14:33:13-06,27,1182
+gen,long-term,,2012-02-27 10:18:19-06,45,1182
+geo,san antonio,,2012-02-27 10:18:19-06,33,1182
+gen,shares,,2020-05-11 13:13:02-05,25,1182
+gen,footwear,,2012-02-27 10:18:19-06,29,1180
+geo,jacksonville,,2012-02-27 10:18:19-06,33,1180
+gen,commercial paper,,2012-03-19 10:40:59-05,38,1176
+gen,licenses,,2012-02-27 10:18:19-06,15,1172
+gen,jobs,,2012-02-27 10:18:19-06,44,1164
+geo,tulsa,,2012-02-27 10:18:19-06,31,1164
+geo,lithuania,,2012-02-27 10:18:19-06,18,1136
+gen,hunting,,2012-02-27 10:18:19-06,25,1128
+geo,birmingham,,2012-02-27 10:18:19-06,25,1118
+geot,cbsa,Core-Based Statistical Area,2019-10-24 07:44:18-05,38,1118
+geo,charlotte,,2012-02-27 10:18:19-06,34,1112
+geo,oklahoma city,Oklahoma City,2012-02-27 10:18:19-06,30,1094
+gen,engineering,,2012-04-23 09:30:25-05,30,1090
+gen,reit,Real Estate Investment Trust,2013-07-15 11:00:27-05,23,1090
+geo,los angeles,,2012-02-27 10:18:19-06,43,1076
+geo,new orleans,,2012-02-27 10:18:19-06,28,1072
+geo,memphis,,2012-02-27 10:18:19-06,30,1068
+geo,lafayette,,2012-02-27 10:18:19-06,21,1052
+gen,minerals,,2012-08-07 09:51:34-05,37,1050
+geo,austin,,2012-02-27 10:18:19-06,35,1046
+geo,fayetteville,,2012-02-27 10:18:19-06,27,1042
+geot,necta division,New England City and Town Areas Division,2014-02-02 12:45:22-06,25,1038
+geo,greenville,,2012-02-27 10:18:19-06,27,1036
+gen,railroad,,2012-07-25 09:51:25-05,36,1028
+gen,owned,,2012-06-25 15:04:36-05,33,1026
+geo,indonesia,,2012-02-27 10:18:19-06,37,1008
+gen,broad,,2012-02-27 10:18:19-06,46,1000
+geo,oecd economies,,2013-07-13 16:14:08-05,13,998
+gen,married,,2016-11-30 11:27:27-06,17,994
+gen,checkable,,2012-02-27 10:18:19-06,32,990
+geo,colombia,,2012-02-27 10:18:19-06,29,988
+gen,municipal,,2012-08-07 10:29:24-05,21,988
+geo,india,,2012-02-27 10:18:19-06,47,974
+gen,abroad,,2012-02-27 10:18:19-06,12,958
+gen,plastics,,2012-02-27 10:18:19-06,43,958
+src,indeed,,2020-10-27 12:41:29-05,42,954
+gen,projection,,2012-02-27 10:18:19-06,47,954
+gen,large,,2012-07-27 08:32:28-05,44,952
+geo,little rock,,2012-02-27 10:18:19-06,22,952
+gen,air travel,,2012-02-27 10:18:19-06,37,948
+gen,covered,,2012-02-27 10:18:19-06,22,948
+gen,short-term,,2012-02-27 10:18:19-06,25,948
+geo,milwaukee,,2012-02-27 10:18:19-06,29,946
+gen,foreign offices,,2012-08-17 09:30:25-05,13,928
+gen,asset-backed,,2012-02-27 10:18:19-06,26,924
+gen,natural resources,,2012-02-27 10:18:19-06,32,924
+geo,tampa,,2012-02-27 10:18:19-06,36,922
+geo,china,,2012-02-27 10:18:19-06,52,914
+geo,burlington,,2012-02-27 10:18:19-06,22,904
+geo,orlando,,2012-02-27 10:18:19-06,33,898
+gen,meat,,2012-02-27 10:18:19-06,39,894
+geo,puerto rico,,2012-08-29 14:33:53-05,27,894
+geo,chattanooga,,2012-02-27 10:18:19-06,26,892
+gen,audio-visual,,2012-07-25 10:23:51-05,19,890
+geo,sacramento,,2012-02-27 10:18:19-06,30,890
+gen,sport,,2012-07-25 10:45:56-05,30,890
+gen,stock market,,2012-03-19 13:17:26-05,51,884
+gen,contractors,,2013-10-21 10:13:56-05,27,882
+gen,defense,,2012-02-27 10:18:19-06,33,874
+gen,r&d,Research and Development,2013-03-26 16:30:39-05,21,874
+gen,leading indicator,,2014-12-10 15:55:01-06,39,870
+gen,gains/losses,,2013-03-11 14:15:03-05,23,866
+gen,accruals,,2012-02-27 10:18:19-06,25,860
+gen,general,,2020-05-11 13:13:02-05,25,860
+gen,hygiene,,2012-07-25 11:50:39-05,19,860
+geo,augusta,,2012-02-27 10:18:19-06,24,858
+geo,oecd europe,,2013-07-17 17:39:29-05,25,858
+gen,interbank,,2012-08-17 09:29:35-05,42,850
+gen,pipeline,,2013-03-26 16:30:22-05,23,850
+gen,business sentiment,,2013-01-29 13:33:55-06,31,848
+geo,lexington,,2012-02-27 10:18:19-06,27,848
+geo,florence,,2012-02-27 10:18:19-06,21,844
+gen,legal,,2013-02-25 10:02:25-06,27,844
+gen,leather,,2012-02-27 10:18:19-06,25,842
+gen,medium,,2015-04-28 10:57:44-05,18,840
+geo,roanoke,,2012-02-27 10:18:19-06,18,838
+gen,amusements,,2012-02-27 10:18:19-06,24,834
+geo,lynchburg,,2012-02-27 10:18:19-06,21,834
+gen,multifamily,,2012-08-06 14:47:29-05,30,834
+gen,establishment survey,Current Employment Statistics Survey (Establishment Survey),2012-06-06 08:24:18-05,56,832
+geo,knoxville,,2012-02-27 10:18:19-06,26,826
+gen,machines,,2012-02-27 10:18:19-06,25,826
+gen,rubber,,2012-02-27 10:18:19-06,39,824
+gen,balance,,2012-02-27 10:18:19-06,49,822
+geo,bloomington,,2012-02-27 10:18:19-06,19,822
+geo,evansville,,2012-02-27 10:18:19-06,21,822
+gen,phone,,2012-07-25 10:19:25-05,17,822
+gen,vegetables,,2012-02-27 10:18:19-06,38,822
+gen,microfinance,,2015-12-22 12:24:37-06,10,816
+gen,nonmetallic,,2013-10-21 14:22:53-05,35,816
+gen,fdi,Foreign Direct Investment,2013-01-29 10:22:04-06,24,806
+geo,miami,,2012-02-27 10:18:19-06,41,806
+gen,contracts,,2012-08-06 15:41:37-05,17,804
+gen,ambulatory,,2013-10-21 09:52:15-05,16,802
+geo,boise city,Boise City,2012-02-27 10:18:19-06,28,802
+gen,sales taxes,,2012-02-27 10:18:19-06,18,802
+geo,huntington,,2012-02-27 10:18:19-06,20,796
+gen,capital account,,2012-02-27 10:18:19-06,24,792
+gen,financing,,2013-10-17 10:09:34-05,40,788
+geo,fort smith,,2012-02-27 10:18:19-06,20,782
+geo,longview,,2012-02-27 10:18:19-06,22,782
+gen,capital transfers,,2012-02-27 10:18:19-06,16,774
+gen,corporate profits,,2012-02-27 10:18:19-06,37,774
+gen,65-years +,65 years old or older,2014-05-16 11:30:23-05,25,772
+gen,nonsupervisory,,2013-12-02 09:02:51-06,34,770
+geo,grand rapids,,2012-02-27 10:18:19-06,22,766
+gen,implicit price deflator,,2012-02-27 10:18:19-06,37,766
+geo,honolulu,,2012-02-27 10:18:19-06,20,764
+geo,des moines,,2012-02-27 10:18:19-06,27,758
+gen,fixed capital formation,,2012-02-27 10:18:19-06,29,756
+geo,charlottesville,,2012-02-27 10:18:19-06,28,754
+gen,enrolled,,2013-10-11 13:41:17-05,24,754
+geo,allentown,,2012-02-27 10:18:19-06,19,750
+geo,kingsport,,2012-02-27 10:18:19-06,16,750
+gen,labor underutilization,,2012-05-10 10:46:02-05,35,750
+rls,msio,"Manufacturer's Shipments, Inventories, & Orders Surv.",2012-08-16 15:21:17-05,52,750
+gen,non-alcoholic,,2012-07-24 16:40:50-05,15,750
+gen,duration,,2021-02-08 17:52:25-06,4,748
+gen,merchandise,,2013-11-13 16:08:31-06,22,748
+geo,dayton,,2012-02-27 10:18:19-06,20,746
+gen,fruits,,2012-02-27 10:18:19-06,30,744
+freq,5 year (freq),5 Year Frequency,2014-05-20 12:39:13-05,29,742
+geo,seattle,,2012-02-27 10:18:19-06,39,738
+src,"bloom, nick",,2014-11-17 13:39:05-06,42,736
+gen,passenger,,2012-07-25 10:02:38-05,34,734
+src,hud,Housing and Urban Development,2012-02-27 10:18:19-06,48,732
+geo,davenport,,2012-02-27 10:18:19-06,13,716
+geo,costa rica,,2012-02-27 10:18:19-06,20,714
+geo,montgomery,,2012-02-27 10:18:19-06,19,706
+geo,toledo,,2012-02-27 10:18:19-06,20,706
+geo,albuquerque,,2012-02-27 10:18:19-06,21,702
+gen,captive reinsurers,,2019-05-24 09:24:40-05,-10,702
+gen,nursing,,2015-02-03 16:13:08-06,22,702
+geo,monroe,,2012-02-27 10:18:19-06,21,700
+gen,land,,2012-08-07 09:23:09-05,26,696
+geo,peoria,,2012-02-27 10:18:19-06,14,696
+geo,durham,,2012-02-27 10:18:19-06,26,694
+geo,decatur,,2012-02-27 10:18:19-06,17,692
+geo,topeka,,2012-02-27 10:18:19-06,12,692
+gen,atm,,2015-12-22 12:23:39-06,23,690
+geo,danville,,2012-02-27 10:18:19-06,21,688
+geo,salt lake city,Salt Lake City,2012-02-27 10:18:19-06,27,688
+gen,1-unit structures,,2012-02-27 10:18:19-06,47,686
+gen,finished,,2012-02-27 10:18:19-06,33,684
+geo,hickory,,2012-02-27 10:18:19-06,21,684
+gen,core,Core Inflation,2012-02-27 10:18:19-06,47,682
+geo,phoenix,,2012-02-27 10:18:19-06,37,680
+geo,greensboro,,2012-02-27 10:18:19-06,21,678
+geo,argentina,,2012-02-27 10:18:19-06,38,676
+gen,advances,,2019-08-19 12:50:58-05,20,674
+geo,gainesville,,2012-02-27 10:18:19-06,23,674
+gen,culture,,2012-07-25 10:22:39-05,2,666
+geo,riverside,,2012-02-27 10:18:19-06,27,664
+geo,lebanon,,2012-02-27 10:18:19-06,18,662
+gen,budget,,2012-02-27 10:18:19-06,38,660
+gen,steel,,2012-02-27 10:18:19-06,47,660
+gen,mortgage-backed,,2012-02-27 10:18:19-06,32,658
+geo,youngstown,,2012-02-27 10:18:19-06,18,656
+geo,san diego,,2012-02-27 10:18:19-06,35,654
+geo,wilmington,,2012-02-27 10:18:19-06,23,650
+geo,winston,,2012-02-27 10:18:19-06,22,650
+geo,macon,,2012-02-27 10:18:19-06,19,648
+geo,asheville,,2012-02-27 10:18:19-06,25,646
+geo,sioux falls,,2012-02-27 10:18:19-06,27,642
+geo,wichita,,2012-02-27 10:18:19-06,22,640
+gen,etf,Exchange Traded Funds,2012-02-27 10:18:19-06,31,638
+src,"ahir, hites",,2020-05-14 16:40:06-05,31,636
+src,"furceri, davide",,2020-05-14 16:41:03-05,31,636
+gen,hotel,,2012-07-25 11:21:49-05,25,636
+rls,wui,World Uncertainty Index,2020-05-20 12:45:56-05,31,636
+geo,hartford,,2012-02-27 10:18:19-06,23,630
+gen,freight,,2012-08-06 15:55:19-05,41,626
+gen,orders,,2013-02-04 10:30:01-06,49,626
+geo,lansing,,2012-02-27 10:18:19-06,16,622
+geo,athens,,2012-02-27 10:18:19-06,16,620
+geo,madison,,2012-02-27 10:18:19-06,29,620
+rls,sloos,Senior Loan Officer Surv. on Bank Lending,2012-08-16 15:21:17-05,40,620
+geo,clarksville,,2012-02-27 10:18:19-06,18,618
+gen,dividends,,2012-02-27 10:18:19-06,28,618
+geo,anaheim,,2013-05-21 11:28:56-05,14,616
+geo,amarillo,,2012-02-27 10:18:19-06,22,614
+gen,premium,,2013-04-19 13:04:22-05,29,614
+geo,raleigh,,2012-02-27 10:18:19-06,31,612
+gen,medicines,,2012-02-27 10:18:19-06,24,608
+geo,harrisburg,,2012-02-27 10:18:19-06,18,604
+geo,syracuse,,2012-02-27 10:18:19-06,23,602
+gen,metropolitan portion,Metropolitan Portion of a State,2017-01-04 11:15:18-06,17,596
+gen,rural,Rural Area,2017-01-04 11:15:54-06,11,596
+gen,consumer credit,,2012-02-27 10:18:19-06,43,590
+geo,beaumont,,2012-02-27 10:18:19-06,17,588
+gen,car registrations,,2012-02-27 10:18:19-06,25,588
+gen,primary metals,,2012-02-27 10:18:19-06,26,588
+geo,scranton,,2012-02-27 10:18:19-06,17,588
+gen,uncertainty,,2019-11-22 16:01:03-06,42,588
+gen,broadcasting,,2013-10-21 10:09:00-05,13,584
+gen,under $5b,,2014-11-03 10:32:31-06,12,584
+geo,shreveport,,2012-02-27 10:18:19-06,19,582
+geo,terre haute,,2012-02-27 10:18:19-06,13,580
+gen,minimum wage,,2015-02-03 09:21:41-06,46,578
+geo,tallahassee,,2012-02-27 10:18:19-06,22,578
+gen,agents,,2013-10-21 09:50:59-05,17,576
+gen,assistance,,2012-10-10 11:49:04-05,27,576
+gen,imputed,,2012-02-27 10:18:19-06,18,576
+gen,securitized,,2012-06-25 15:05:20-05,31,576
+geo,lewiston,,2012-02-27 10:18:19-06,22,574
+gen,part-time,,2012-02-27 10:18:19-06,33,574
+geo,san jose,,2012-02-27 10:18:19-06,29,574
+geo,ogden,,2012-02-27 10:18:19-06,22,568
+geo,hagerstown,,2012-02-27 10:18:19-06,22,564
+gen,weighted-average,,2012-02-27 10:18:19-06,18,562
+gen,charter,,2012-10-10 11:57:19-05,25,560
+geo,corpus christi,,2012-02-27 10:18:19-06,20,560
+rls,jolts,Job Openings and Labor Turnover,2012-08-16 15:21:17-05,46,560
+geo,jefferson city,Jefferson City,2012-02-27 10:18:19-06,15,558
+geo,saudi arabia,,2012-02-27 10:18:19-06,34,558
+gen,distributive,,2013-03-26 16:24:46-05,32,556
+gen,yield,,2012-02-27 10:18:19-06,59,556
+gen,exemptions,,2015-10-30 15:15:15-05,12,554
+gen,wired,,2013-11-04 16:03:53-06,33,554
+gen,fertility,,2014-12-12 08:18:25-06,35,552
+gen,lubricants,,2012-07-24 16:35:11-05,24,552
+geo,parkersburg,,2012-02-27 10:18:19-06,12,550
+gen,recording,,2012-07-25 10:38:46-05,9,550
+gen,midwest,,2012-02-27 10:18:19-06,18,548
+gen,privately owned,,2012-02-27 10:18:19-06,39,546
+geo,savannah,,2012-02-27 10:18:19-06,22,546
+gen,net worth,,2013-05-13 11:24:47-05,38,542
+geo,romania,,2012-02-27 10:18:19-06,23,542
+geo,st. joseph,,2012-02-27 10:18:19-06,15,542
+gen,marketable,,2020-05-11 13:13:02-05,24,540
+geo,wheeling,,2012-02-27 10:18:19-06,17,538
+geo,buffalo,,2012-02-27 10:18:19-06,23,536
+gen,distillate,,2020-01-03 12:33:39-06,2,536
+gen,ibf,International Banking Facilities,2021-06-14 21:39:42-05,24,536
+geo,salem,,2012-02-27 10:18:19-06,11,536
+geo,croatia,,2012-02-27 10:18:19-06,17,532
+gen,individual,,2012-02-27 10:18:19-06,29,528
+geo,sioux city,Sioux City,2012-02-27 10:18:19-06,20,528
+geo,johnson city,Johnson City,2012-02-27 10:18:19-06,14,526
+geo,fort wayne,,2012-02-27 10:18:19-06,15,522
+gen,ereit,Equity Real Estate Investment Trust,2023-12-08 12:15:23-06,19,520
+geo,blacksburg,,2012-02-27 10:18:19-06,12,516
+geo,cyprus,,2012-02-27 10:18:19-06,17,516
+gen,schools,,2012-08-07 10:42:52-05,14,514
+gen,crude,,2015-03-04 14:53:17-06,45,510
+geo,killeen,,2012-02-27 10:18:19-06,21,510
+gen,wealth,,2013-07-17 10:29:19-05,42,510
+geo,akron,,2012-02-27 10:18:19-06,19,508
+geo,bulgaria,,2012-02-27 10:18:19-06,19,508
+geo,valdosta,,2012-02-27 10:18:19-06,14,508
+gen,gambling,,2013-03-08 15:50:59-06,17,506
+geo,north port,,2012-02-27 10:18:19-06,27,506
+gen,periodicals,,2012-07-25 10:50:23-05,18,506
+geo,morristown,,2012-02-27 10:18:19-06,20,504
+geo,wichita falls,,2012-02-27 10:18:19-06,21,504
+gen,ccadj,Capital Consumption Adjustment,2012-02-27 10:18:19-06,36,502
+gen,fhlb,Federal Home Loan Banks,2013-07-15 10:59:27-05,22,500
+gen,vacancy,,2012-07-17 14:12:59-05,46,500
+gen,postal,,2012-07-25 10:18:46-05,16,498
+gen,retained earnings,,2017-11-09 12:08:46-06,13,498
+geo,fargo,,2012-02-27 10:18:19-06,17,496
+gen,fresh,,2019-08-06 15:46:13-05,29,496
+geo,gulfport,,2012-02-27 10:18:19-06,17,496
+geo,peru,,2012-02-27 10:18:19-06,23,494
+gen,architecture,,2013-11-13 15:42:43-06,18,492
+geo,cedar rapids,,2012-02-27 10:18:19-06,16,492
+geo,duluth,,2012-02-27 10:18:19-06,19,492
+geo,pensacola,,2012-02-27 10:18:19-06,21,492
+geo,malta,,2012-02-27 10:18:19-06,11,490
+geo,dothan,,2012-02-27 10:18:19-06,13,488
+geo,anchorage,,2012-02-27 10:18:19-06,18,486
+geo,las vegas,,2012-02-27 10:18:19-06,33,486
+geo,college station,,2012-02-27 10:18:19-06,20,484
+geo,green bay,,2012-02-27 10:18:19-06,21,484
+geo,hattiesburg,,2012-02-27 10:18:19-06,19,484
+geo,tuscaloosa,,2012-02-27 10:18:19-06,20,482
+gen,appraisers,,2015-02-03 09:07:18-06,56,480
+gen,garden,,2012-07-25 09:35:36-05,22,480
+gen,pandemic,,2020-05-20 12:39:50-05,26,476
+geo,albania,,2012-02-27 10:18:19-06,12,472
+geo,victoria,,2012-02-27 10:18:19-06,17,472
+gen,physicians,,2013-10-21 14:55:35-05,22,468
+src,frb phi,Philadelphia Fed,2012-02-27 10:18:19-06,41,466
+gen,video,,2012-02-27 10:18:19-06,16,466
+gen,balance sheet,,2012-02-27 10:18:19-06,38,464
+gen,electronic components,,2012-02-27 10:18:19-06,34,464
+geo,huntsville,,2012-02-27 10:18:19-06,21,464
+geo,owensboro,,2012-02-27 10:18:19-06,15,464
+gen,iron,,2012-02-27 10:18:19-06,40,462
+gen,laundry,,2012-08-07 09:24:45-05,19,462
+geo,abilene,,2012-02-27 10:18:19-06,22,458
+geo,lincoln,,2012-02-27 10:18:19-06,15,458
+gen,overnight,,2012-02-27 10:18:19-06,46,458
+geo,canton,,2012-02-27 10:18:19-06,12,454
+geo,champaign,,2012-02-27 10:18:19-06,17,454
+gen,nonperforming,,2012-02-27 10:18:19-06,31,454
+gen,pricing terms,,2012-02-27 10:18:19-06,12,454
+geot,census division,Census Division,2012-02-27 10:18:19-06,21,452
+geo,colorado springs,,2012-02-27 10:18:19-06,24,452
+gen,nursing homes,,2013-03-11 10:17:15-05,16,452
+geo,plains bea region,Bureau of Economic Analysis - Plains region,2012-02-27 10:18:19-06,14,452
+geo,port st. lucie,,2012-02-27 10:18:19-06,19,452
+geo,appleton,,2012-02-27 10:18:19-06,18,450
+gen,heating,,2012-02-27 10:18:19-06,32,450
+geo,houma,,2012-02-27 10:18:19-06,13,450
+geo,kennewick,,2012-02-27 10:18:19-06,16,450
+gen,clerical workers,,2012-02-27 10:18:19-06,25,448
+gen,extraction,,2013-10-21 10:31:35-05,32,448
+geo,south bend,,2012-02-27 10:18:19-06,13,448
+gen,animals,,2013-10-21 09:53:59-05,19,446
+geo,bangladesh,,2012-02-27 10:18:19-06,25,446
+geo,binghamton,,2012-02-27 10:18:19-06,16,446
+gen,derivatives,,2012-02-27 10:18:19-06,17,446
+geo,eau claire,,2012-02-27 10:18:19-06,16,446
+geo,fresno,,2012-02-27 10:18:19-06,19,446
+geo,salisbury,,2012-02-27 10:18:19-06,12,444
+geo,midwest census region,Census - Midwest Region,2012-02-27 10:18:19-06,26,442
+geo,montenegro,,2012-08-29 14:33:53-05,9,442
+geo,georgia,Georgia (country),2012-02-27 10:18:19-06,15,440
+geo,pine bluff,,2012-02-27 10:18:19-06,13,440
+geo,singapore,,2012-02-27 10:18:19-06,32,440
+geo,malaysia,,2012-02-27 10:18:19-06,31,438
+gen,south,,2012-02-27 10:18:19-06,14,438
+gen,syndication,,2013-10-11 13:39:06-05,-1,438
+geo,zambia,,2012-02-27 10:18:19-06,16,438
+geo,santa barbara,,2012-02-27 10:18:19-06,16,436
+geo,waterloo,,2012-02-27 10:18:19-06,12,436
+geo,brunswick,,2012-02-27 10:18:19-06,10,434
+geo,joplin,,2012-02-27 10:18:19-06,10,434
+geo,kalamazoo,,2012-02-27 10:18:19-06,15,434
+geo,utica,,2012-02-27 10:18:19-06,14,434
+gen,seafood,,2012-08-01 13:59:12-05,28,430
+geo,thailand,,2012-02-27 10:18:19-06,33,430
+geo,frb phi district,Philadelphia Fed District,2012-02-27 10:18:19-06,26,428
+geo,northeast census region,Census - Northeast Region,2012-02-27 10:18:19-06,24,428
+gen,eci,Employment Cost Index,2012-02-27 10:18:19-06,38,426
+geo,rocky mount,,2012-02-27 10:18:19-06,15,426
+geo,congo,Congo,2012-02-27 10:18:19-06,4,422
+geo,glens falls,,2012-02-27 10:18:19-06,16,422
+geo,iowa city,Iowa City,2012-02-27 10:18:19-06,15,422
+geo,southeast bea region,Bureau of Economic Analysis - Southeast region,2012-02-27 10:18:19-06,17,422
+geo,texarkana,,2012-02-27 10:18:19-06,14,422
+geo,mideast bea region,Bureau of Economic Analysis - Mideast Region,2012-02-27 10:18:19-06,15,420
+geo,rockford,,2012-02-27 10:18:19-06,9,420
+geo,stockton,,2012-02-27 10:18:19-06,13,420
+geo,far west bea region,,2012-02-27 10:18:19-06,9,418
+gen,capacity,,2012-08-06 15:16:23-05,39,416
+gen,fiber,,2015-03-04 10:27:30-06,34,416
+geo,oxnard,,2012-02-27 10:18:19-06,16,416
+geo,philippines,,2012-02-27 10:18:19-06,32,416
+geo,reno,,2012-02-27 10:18:19-06,22,416
+gen,ships,,2012-02-27 10:18:19-06,26,416
+geo,pakistan,,2012-02-27 10:18:19-06,30,414
+geo,provo,,2012-02-27 10:18:19-06,17,414
+geo,tucson,,2012-02-27 10:18:19-06,21,414
+gen,doctoral degree,,2013-10-30 15:45:54-05,11,412
+geo,guinea,,2012-02-27 10:18:19-06,4,412
+geo,midland,,2012-02-27 10:18:19-06,17,412
+rls,nrs,New Residential Sales,2012-08-16 15:21:17-05,40,412
+geo,west census region,Census - West region,2012-02-27 10:18:19-06,25,412
+geo,yuba city,Yuba City,2012-02-27 10:18:19-06,17,412
+geo,poughkeepsie,,2012-02-27 10:18:19-06,14,408
+geo,bowling green,,2012-02-27 10:18:19-06,13,406
+geo,logan,,2012-02-27 10:18:19-06,11,406
+geo,ukraine,,2012-02-27 10:18:19-06,21,406
+geo,great lakes bea region,,2012-02-27 10:18:19-06,12,404
+geo,anderson,,2012-02-27 10:18:19-06,13,402
+geo,bakersfield,,2012-02-27 10:18:19-06,17,402
+geo,el paso,,2012-02-27 10:18:19-06,19,402
+gen,floor coverings,,2012-07-25 09:29:44-05,23,402
+gen,pets,,2012-07-25 10:43:28-05,23,402
+gen,shelter,,2012-02-27 10:18:19-06,34,402
+geo,angola,,2012-08-29 14:33:53-05,13,400
+gen,hobby,,2012-07-25 10:44:32-05,21,400
+geo,brownsville,,2012-02-27 10:18:19-06,14,398
+geo,dominican republic,,2012-02-27 10:18:19-06,16,398
+geo,new england bea region,Bureau of Economic Analysis - New England region,2012-02-27 10:18:19-06,7,398
+gen,spread,,2012-03-19 13:05:24-05,44,398
+geo,la crosse,,2012-02-27 10:18:19-06,14,396
+gen,m3,M3 Money Stock,2012-02-27 10:18:19-06,36,396
+gen,poultry,,2012-08-07 10:34:11-05,30,396
+geo,lubbock,,2012-02-27 10:18:19-06,18,394
+geo,morocco,,2012-02-27 10:18:19-06,21,394
+geo,salinas,,2012-02-27 10:18:19-06,12,394
+geo,kazakhstan,,2012-02-27 10:18:19-06,21,392
+gen,pharmaceuticals,,2012-02-27 10:18:19-06,28,392
+gen,accounts,,2020-05-11 13:13:02-05,28,390
+gen,advertisement,,2012-08-06 14:50:07-05,18,390
+gen,offices,,2020-05-11 13:13:02-05,7,390
+geo,rocky mountain bea region,Bureau of Economic Analysis - Rocky Mountain Region,2012-02-27 10:18:19-06,15,390
+geo,rwanda,,2012-02-27 10:18:19-06,12,390
+geo,alexandria,,2012-02-27 10:18:19-06,8,388
+gen,bakeries,,2013-10-21 10:07:23-05,17,388
+geo,southwest bea region,Bureau of Economic Analysis - Southwest region,2012-02-27 10:18:19-06,15,388
+geo,lake charles,,2012-02-27 10:18:19-06,15,386
+geo,modesto,,2012-02-27 10:18:19-06,16,386
+gen,nondefense,,2012-02-27 10:18:19-06,27,386
+geo,santa rosa,,2012-02-27 10:18:19-06,15,386
+geo,south census region,Census - South region,2012-02-27 10:18:19-06,26,386
+geo,winchester,,2012-02-27 10:18:19-06,10,386
+geo,pocatello,,2012-02-27 10:18:19-06,18,384
+geo,vallejo,,2012-02-27 10:18:19-06,14,384
+gen,dairy products,,2019-07-29 12:35:53-05,24,382
+geo,ecuador,,2012-02-27 10:18:19-06,18,382
+geo,guatemala,,2012-02-27 10:18:19-06,14,382
+geo,mcallen,,2012-02-27 10:18:19-06,18,382
+geo,san angelo,,2012-02-27 10:18:19-06,14,382
+gen,west,,2012-02-27 10:18:19-06,26,382
+geo,cape girardeau,,2013-05-23 11:21:03-05,12,380
+gen,consumer prices,,2012-02-27 10:18:19-06,36,380
+src,eta,Employment and Training Administration,2012-02-27 10:18:19-06,42,380
+geo,grand forks,,2012-02-27 10:18:19-06,10,380
+gen,m1,M1 Money Stock,2012-02-27 10:18:19-06,41,380
+geo,madagascar,,2012-02-27 10:18:19-06,10,380
+geo,manhattan,,2012-08-07 11:34:30-05,9,380
+gen,performance,,2013-11-04 15:55:21-06,15,380
+geo,burundi,,2012-02-27 10:18:19-06,13,378
+geo,eugene,,2012-02-27 10:18:19-06,12,378
+gen,grants,,2013-03-08 15:45:28-06,7,378
+geo,mauritius,,2012-02-27 10:18:19-06,7,378
+geo,botswana,,2012-02-27 10:18:19-06,13,376
+geo,dalton,,2012-02-27 10:18:19-06,5,374
+geo,kenya,,2012-02-27 10:18:19-06,25,374
+gen,nim,Net Interest Margin,2013-06-03 14:14:10-05,29,374
+geo,bridgeport,,2012-02-27 10:18:19-06,19,372
+geo,kokomo,,2012-02-27 10:18:19-06,7,372
+geo,kuwait,,2012-02-27 10:18:19-06,17,372
+geo,st. cloud,,2012-02-27 10:18:19-06,3,372
+gen,toy,,2012-07-25 10:44:59-05,24,372
+gen,alcoholic beverages,,2019-07-29 12:45:12-05,17,370
+geo,bolivia,Bolivia,2012-02-27 10:18:19-06,10,370
+geo,morgantown,,2012-02-27 10:18:19-06,17,370
+geo,bismarck,,2012-02-27 10:18:19-06,14,368
+geo,dover,,2012-02-27 10:18:19-06,11,368
+geo,elizabethtown,,2012-02-27 10:18:19-06,12,368
+geo,idaho falls,,2012-02-27 10:18:19-06,19,368
+gen,proprietors,,2012-02-27 10:18:19-06,14,368
+geo,zimbabwe,,2012-02-27 10:18:19-06,22,366
+geo,laredo,,2012-02-27 10:18:19-06,11,364
+geo,qatar,,2012-02-27 10:18:19-06,33,364
+geo,chad,Chad,2012-08-29 14:33:53-05,10,362
+gen,funded,,2020-05-11 13:13:02-05,1,362
+gen,self-employed,,2012-02-27 10:18:19-06,16,362
+geo,venezuela,Bolivarian Republic of Venezuela,2012-02-27 10:18:19-06,27,362
+geo,viet nam,,2012-08-29 14:33:53-05,28,362
+geo,fiji,,2012-02-27 10:18:19-06,6,360
+gen,shipments,,2012-02-27 10:18:19-06,31,360
+geo,boulder,,2012-02-27 10:18:19-06,20,358
+geo,cameroon,,2012-02-27 10:18:19-06,12,358
+src,fdic,Federal Deposit Insurance Corporation,2012-10-09 14:26:29-05,44,358
+gen,cereal,,2012-07-24 16:43:17-05,29,356
+geo,nigeria,,2012-02-27 10:18:19-06,30,356
+geo,trinidad and tobago,,2012-02-27 10:18:19-06,9,356

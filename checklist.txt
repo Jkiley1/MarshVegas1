@@ -1,0 +1,10 @@
+With regards to: 
+
+User interface 
+    - develop. 
+    - Main menu
+    - includes way to search and select FRED things, can 
+    - probably SQLlite3 based solution here
+
+Financial Statements:
+    - 
