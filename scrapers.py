@@ -11,77 +11,85 @@ import zipfile
 from io import BytesIO
 
 """we may need a class to handle these objects when we are done with them"""
-
-        
-def treasuries(year: str|int = datetime.date.today().year, month: str|int = "", real_rates: bool = False):
+def treasuries(year: str|int = datetime.date.today().year, month: str|int = "", real_rates: bool = False) -> list:
     year = str(year)
     month = str(month)
 
     if month:
         if len(month) < 2:
             month = "0" + month
-    date = None
-    one_month = None
-    three_month = None
-    six_month = None
-    two = None
-    five = None
-    seven = None
-    ten = None
-    twenty = None
-    thirty = None
+
+    def _real(year = year, month = month) -> list:
+        interest_rate_data_url = f'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value={year+month}'
+        data = []
+        response = requests.get(url=interest_rate_data_url)
+        soup = BeautifulSoup(response.content, 'lxml')
+        rows = soup.find_all('tr')
+        for row in rows:
+            try:
+                real_date = row.select_one('.views-field.views-field-field-tdr-date'
+                                           ).get_text(strip=True)
+                real_five = row.find('td',
+                                      headers='view-field-tc-5year-table-column').get_text(strip=True)
+                real_seven = row.find('td',
+                                       headers = 'view-field-tc-7year-table-column').get_text(strip=True)
+                real_ten = row.find('td',
+                                     headers = 'view-field-tc-10year-table-column').get_text(strip=True)
+                real_twenty = row.find('td',
+                                        headers = 'view-field-tc-20year-table-column').get_text(strip=True)
+                real_thirty = row.find('td',
+                                        headers = 'view-field-tc-30year-table-column').get_text(strip=True)
+                data.append([real_date, real_five, real_seven, real_ten, real_twenty, real_thirty])
+            except AttributeError:
+                pass
+        return data
     
+    def _nominal(year = year, month = month) -> list:
+        interest_rate_data_url = f'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value={year+month}'
+        data = []
+        response = requests.get(url=interest_rate_data_url)
+        soup = BeautifulSoup(response.content, 'lxml')
+        rows = soup.find_all('tr')
+        for row in rows:
+            try:
+                date = row.select_one('.views-field.views-field-field-tdr-date'
+                                      ).get_text(strip=True)
+                one_month = row.find('td',
+                                      headers='view-field-bc-1month-table-column').get_text(strip=True)
+                three_month = row.find('td',
+                                        headers = 'view-field-bc-3month-table-column').get_text(strip=True)
+                six_month = row.find('td',
+                                      headers = 'view-field-bc-6month-table-column').get_text(strip=True)
+                two = row.find('td',
+                               headers = 'view-field-bc-2year-table-column').get_text(strip=True)
+                five = row.find('td',
+                                headers = 'view-field-bc-5year-table-column').get_text(strip=True)
+                seven = row.find('td',
+                                 headers = 'view-field-bc-7year-table-column').get_text(strip=True)
+                ten = row.find('td',
+                               headers = 'view-field-bc-10year-table-column').get_text(strip=True)
+                twenty = row.find('td',
+                                   headers = 'view-field-bc-20year-table-column').get_text(strip=True)
+                thirty = row.find('td',
+                                   headers = 'view-field-bc-30year-table-column').get_text(strip=True)
+                data.append([date, one_month, three_month, six_month, two, five, seven, ten, twenty, thirty])
+            except AttributeError:
+                pass
+        return data
+
+       
     # current month filter
     """
     Args:
         year : year of 
     """
-    interest_rate_data_url = f'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value={year+month}'
     if real_rates:
-        """Call real_rates function defined within here"""
-        
-    data = []
-    
-    response = requests.get(url=interest_rate_data_url)
-    soup = BeautifulSoup(response.content, 'lxml')
-    rows = soup.find_all('tr')
-    for row in rows:
-        date = row.select_one('.views-field.views-field-field-tdr-date')
-        one_month = row.find('td', headers='view-field-bc-1month-table-column')
-        three_month = row.find('td', headers = 'view-field-bc-3month-table-column')
-        six_month = row.find('td', headers = 'views-field views-field-field-bc-6month')
-        two = row.find('td', headers = 'view-field-bc-2year-table-column')
-        five = row.find('td', headers = 'views-field views-field-field-bc-5year')
-        seven = row.find('td', headers = 'views-field views-field-field-bc-7year')
-        ten = row.find('td', headers = 'views-field-field-bc-10year-table-column')
-        twenty = row.find('td', headers = 'view-field-bc-20year-table-column')
-        thirty = row.find('td', headers = 'view-field-bc-30year-table-column')
-        print(type(date),date)
-        print(type(one_month),one_month)
-        print(type(three_month),three_month)
-        print(type(six_month),six_month)
-        print(type(two),two)
-        print(type(five),five)
-        print(type(seven),seven)
-        print(type(ten),ten)
-        print(type(twenty),twenty)
-        print(type(thirty),thirty)
-        data.append([date, one_month, three_month, six_month, two, five, seven, ten, twenty, thirty])
-    """<class 'bs4.element.Tag'> <td class="views-field views-field-field-tdr-date" headers="view-field-tdr-date-table-column"><time class="datetime" datetime="2025-07-14T12:00:00Z">07/14/2025</time>
-</td>
-<class 'bs4.element.Tag'> <td class="bc1month views-field views-field-field-bc-1month" headers="view-field-bc-1month-table-column">4.37          </td>
-<class 'bs4.element.Tag'> <td class="bc3month views-field views-field-field-bc-3month" headers="view-field-bc-3month-table-column">4.42          </td>
-<class 'NoneType'> None
-<class 'bs4.element.Tag'> <td class="views-field views-field-field-bc-2year" headers="view-field-bc-2year-table-column">3.90          </td>
-<class 'NoneType'> None
-<class 'NoneType'> None
-<class 'NoneType'> None
-<class 'bs4.element.Tag'> <td class="bc20year views-field views-field-field-bc-20year" headers="view-field-bc-20year-table-column">4.97          </td>
-<class 'bs4.element.Tag'> <td class="bc30year views-field views-field-field-bc-30year" headers="view-field-bc-30year-table-column">4.97          </td>"""
-    def real_rates():
-        interest_rate_data_url = f'https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value={year}'
-    
-treasuries()
+
+        return _real()
+    else:
+
+        return _nominal()        
+
 def url_to_df(url: str) -> pd.DataFrame:
         response = requests.get(url)
         response.raise_for_status()
