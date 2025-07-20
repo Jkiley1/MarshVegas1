@@ -7,4 +7,4 @@ User interface
     - probably SQLlite3 based solution here
 
 Financial Statements:
-    - 
+    - https://www.federalreserve.gov/pubs/feds/2006/200628/200628pap.pdf
